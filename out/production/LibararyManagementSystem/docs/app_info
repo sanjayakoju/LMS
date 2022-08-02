@@ -1,0 +1,14 @@
+Here is the user data for this application:
+
+username: 102
+password: abc
+authorization: ADMIN
+           
+username: 101
+password: xyz
+authorization: LIBRARIAN
+
+username: 103
+password: 111
+authorization: BOTH
+
